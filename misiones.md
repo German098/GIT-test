@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros para superhéroes
 4. Más comida
 5. Buscar nuevos miembros para la liga
+6. Investigar trabajos del enemigo
