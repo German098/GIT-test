@@ -6,3 +6,4 @@
 4. Más comida
 5. Buscar nuevos miembros para la liga
 6. Investigar trabajos del enemigo
+7. Última misión
