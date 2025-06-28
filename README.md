@@ -2,6 +2,7 @@
 
 Este repositorio sirve para probar cosas nuevas
 
+	Pequeño texto informativo 
 	Texto informativo
 
 Fin README
