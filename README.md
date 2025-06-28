@@ -5,4 +5,4 @@ Este repositorio sirve para probar cosas nuevas
 	Pequeño texto informativo 
 	Texto informativo realizado en el stash
 
-Fin README
+Fin README stash
