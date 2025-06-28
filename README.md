@@ -4,7 +4,5 @@ Este repositorio sirve para probar cosas nuevas
 
 	Pequeño texto informativo 
 	Texto informativo realizado en el stash
-	Nose 1
 
-
-Fin README prueba
+Fin README
