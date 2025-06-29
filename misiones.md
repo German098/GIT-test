@@ -7,4 +7,5 @@
 5. Buscar nuevos miembros para la liga
 6. Investigar trabajos del enemigo
 7. Buscar nuevo refugio
-8. Última misión
+8. Encontrar nuevo refugio
+9. Última misión
