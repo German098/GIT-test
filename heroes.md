@@ -8,4 +8,5 @@
 * Robin
 * Spiderman
 * Nuevo héroe
+* Nuevo héroe 2
 * Otro héroe
