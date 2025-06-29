@@ -6,5 +6,6 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Spiderman
 * Nuevo héroe
 * Otro héroe
