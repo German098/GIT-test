@@ -7,6 +7,4 @@ Este repositorio sirve para probar cosas nuevas
 
 	Esto es un proyecto de pruebas GIT
 
-### Github
-
 Fin README
